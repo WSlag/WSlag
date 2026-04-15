@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Lito 👋
 
-<!--
-**WSlag/WSlag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 What I Do
+I build real-world business applications:
 
-Here are some ideas to get you started:
+- 🚚 Logistics platforms
+- 📦 Marketplace systems
+- 📊 CRM & admin dashboards
+- ⚡ Progressive Web Apps (PWA)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Featured Project
+
+### 🚚 GetGo PH
+https://getgoph.com
+
+A logistics marketplace connecting shippers and truckers in the Philippines.
+
+---
+
+## 🛠 Tech Stack
+- React + Vite
+- Firebase
+- Node.js
+- Tailwind CSS
+
+---
+
+## 💼 Open for Work
+I’m available for freelance and business projects.
+
+Let’s build something 🚀
