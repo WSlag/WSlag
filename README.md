@@ -12,18 +12,23 @@ I build real-world business applications:
 
 ## 🌐 Featured Project
 
-### 🚚 GetGo PH
-https://getgoph.com
+## 🌐 Featured Projects
 
-A logistics marketplace connecting shippers and truckers in the Philippines.
+### 🚚 GetGo PH
+https://getgoph.com  
+A production-ready logistics marketplace connecting shippers and truckers in the Philippines.
 
 ---
 
-## 🛠 Tech Stack
-- React + Vite
-- Firebase
-- Node.js
-- Tailwind CSS
+### 💼 JobAgent PH
+https://jobagentph.com  
+A job marketplace platform connecting employers and job seekers with structured workflows and application tracking.
+
+---
+
+### 🎉 EventPinas (In Progress)
+https://eventpinas.web.app  
+An event marketplace platform designed to connect organizers and attendees in a centralized digital system.
 
 ---
 
