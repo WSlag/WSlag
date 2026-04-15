@@ -1,7 +1,7 @@
 # Hi, I'm Lito 👋
 
 ## 🚀 What I Do
-## 🚀 I build production-ready marketplace and business platforms.
+💡 I focus on building real-world systems—not just demo projects.
 
 - 🚚 Logistics platforms
 - 📦 Marketplace systems
