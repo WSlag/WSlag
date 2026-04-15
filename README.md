@@ -12,8 +12,6 @@
 
 ## 🌐 Featured Project
 
-## 🌐 Featured Projects
-
 ### 🚚 GetGo PH
 https://getgoph.com  
 A production-ready logistics marketplace connecting shippers and truckers in the Philippines.
