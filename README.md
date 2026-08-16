@@ -18,7 +18,7 @@ A production logistics marketplace connecting shippers and truckers with real-ti
 
 ---
 
-### 💼 JobAgent PH
+### 💼 JobAgent PH (In Development)
 A job marketplace platform with structured recruitment workflows, application tracking, and agency management tools.
 
 ---
